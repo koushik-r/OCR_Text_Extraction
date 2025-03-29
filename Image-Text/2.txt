@@ -1,0 +1,51 @@
+(o@yigwd «9 BANK STATEMENT
+
+ACCOUNT HOLDER DETAILS
+
+Account Holder Name
+
+Registered Mobile Number
+
+Residential Address
+
+ACCOUNT DETAILS
+
+Account Type
+
+Account Balance
+
+FD Link
+
+Total Balance
+
+Nomination
+
+ACCOUNT STATEMENT
+
+‘Txn Date | Value Date | Description | RefNo/ChequeNo| Debit | Credit | Balance
+02 Jan2019} 02Jan2019 XXXKKXK XKXKKXK XXKKK XKXKK | XXXXXXK
+10 Jan 2019} 10Jan2019 XXXKKXK XXXXXXX XXXXK XXXKX | XXXKXKX
+15Jan2019) 15 Jan2019 XXXL XKXXKXK XXXKX XXXKX | XXXKXXX
+20Jan 2019] 20Jan 2019 XXX XXX XXX XXXKK | XOXXKKKX
+25 Jan 2019) 25 Jan 2019. XXXKKXK XXXXXXK XXXXK XXXKX | XXXXXKK,
+REWARD POINTS SUMMARY
+
+Savings Account number
+
+Card Number
+
+Earnings
+
+Total Balance
+
+ACCOUNT RELATED OTHER INFO
+
+Account Type
+
+Account Number
+
+MICR
+
+IFSC
+
+J
